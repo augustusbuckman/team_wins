@@ -2,7 +2,7 @@ import os.path
 import sys
 from unittest import TestCase
 
-from zeller import main
+from team_wins import main
 from tud_test_base import *
 
 def test_team_wins():
